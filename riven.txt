@@ -1,0 +1,43 @@
+::TODO::
+
+//COMBAT//
+	1 autohit entre chaque A 
+	out = condition pour choix de l'harass
+
+
+	harass:
+			AA-Z in
+			A-E out
+		or
+			E-Z-AA in
+			A out
+		or
+			A-A-A-Z in
+			E out
+
+	combo: 
+		(if killable)
+		E gap
+		R-AA-Z-A-R
+
+		(else)
+		E gap
+		AA-Z-A (if targetlowhp)R (if killable)R
+
+
+
+//WALLHOP//
+
+//ESCAPE-KEY//
+
+//USE ITEMS//
+
+//AUTO-IGNITE//
+
+//AUTO-KS//
+
+//LASTHITTING//
+
+//LANECLEAR//
+
+//JUNGLECLEAR//
